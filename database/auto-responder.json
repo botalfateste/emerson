@@ -9,6 +9,24 @@
     },
     {
         "match": "Qual seu nome",
-        "answer": "Meu nome é Takeshi Bot"
+        "answer": "Meu nome é Emerson"
+    }
+    ,
+    {
+        "match": "! Ping",
+        "answer": "> pong e ganhei"
+    }
+    ,
+    {
+        "match": "! Ping ganhei",
+        "answer": "eu ganhei, tu errou"
+    },
+    {
+        "match": "Juliano",
+        "answer": "Ele é foda"
+    },
+    {
+        "match": "@Master",
+        "answer": "Não marque ele!!"
     }
 ]

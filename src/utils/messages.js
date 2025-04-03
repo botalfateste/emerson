@@ -67,14 +67,7 @@ exports.menuMessage = () => {
 ▢ • ${PREFIX}pixart
 ▢ • ${PREFIX}stablle-diffusion-turbo
 ▢
-╰━━─「🚀」─━━
+╰━━─「🚀」─━━;
 
-╭━━⪩ CANVAS ⪨━━
-▢
-▢ • ${PREFIX}bolsonaro
-▢ • ${PREFIX}cadeia
-▢ • ${PREFIX}inverter
-▢ • ${PREFIX}rip
-▢
-╰━━─「❇」─━━`;
+
 };

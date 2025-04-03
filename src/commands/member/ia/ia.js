@@ -10,7 +10,7 @@ const { PREFIX } = require('./config');
 const { Configuration, OpenAIApi } = require('openai');
 
 const configuration = new Configuration({
-  apiKey: 'SUA_CHAVE_DE_API_OPENAI', // Substitua pela sua chave de API da OpenAI
+  apiKey: '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', // Substitua pela sua chave de API da OpenAI
 });
 const openai = new OpenAIApi(configuration);
 
